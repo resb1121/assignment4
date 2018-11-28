@@ -46,3 +46,11 @@
     display: flex;
     flex-direction: column;
 }
+.flexbox4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: inherit;
+  
+}
